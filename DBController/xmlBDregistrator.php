@@ -7,7 +7,6 @@
  */
 function CreateUser()
 {
-
     if (isset($_POST['submit'])) {
         $xml = new DOMDocument("1.0", "UTF-8");
         $xml->load('dbStorage/usersDB.xml');

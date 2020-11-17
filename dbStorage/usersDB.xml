@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <users>
-    <user>
-        <login>11</login>
-        <password>qas</password>
-    </user>
-    <user>
-        <login>rty</login>
-        <password>rty</password>
-    </user>
-    <user>
-        <login>qwe</login>
-        <password>qwerty</password>
-    </user>
-    <user>
-        <login>sdf</login>
-        <password>sdf</password>
-    </user>
-    <user>
-        <login>aaaa</login>
-        <password>dddd</password>
-    </user>
-    <user>
-        <login>aaaa</login>
-        <password>ffffff</password>
-    </user>
-<user><login>d</login><password>d</password></user><user><login>a</login><password>s</password></user></users>
+<user>
+    <login>11</login>
+    <password>qas</password>
+</user>
+<user>
+    <login>rty</login>
+    <password>rty</password>
+</user>
+<user>
+    <login>qwe</login>
+    <password>qwerty</password>
+</user>
+<user>
+    <login>sdf</login>
+    <password>sdf</password>
+</user>
+<user>
+    <login>aaaa</login>
+    <password>dddd</password>
+</user>
+<user>
+    <login>aaaa</login>
+    <password>ffffff</password>
+</user>
+<user>
+    <login>d</login>
+    <password>d</password>
+</user>
+<user>
+    <login>a</login>
+    <password>s</password>
+</user>
+<user>
+    <login>abs</login>
+    <password>sud</password>
+</user>
+</users>

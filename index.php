@@ -16,4 +16,5 @@
 </form>
 <br>
 <div id="result_form"></div>
+<p></p>
 </html>
